@@ -4,7 +4,7 @@ Computational Neuroscience
 ## Textbook : 
    http://cvr.yorku.ca/webpages/spikes.pdf
    
-   ![img](Basic Scripts/book.png)
+![img]('Basic Scripts/book.png')
 
 ### References: 
 1. https://github.com/kuz/Computational-Neuroscience-Course
