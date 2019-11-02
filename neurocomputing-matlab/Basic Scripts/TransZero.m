@@ -1,1 +1,0 @@
-%Simple function to solve a transcendental equation using fzerofunction Output = TransZero(X);Output = X - 10/(1+exp(-X+5));
