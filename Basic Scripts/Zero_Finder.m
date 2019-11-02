@@ -1,0 +1,1 @@
+%This script will call the function TransZero to solve for XGuess = input('Initial guess at approximate location of zero: ');Result = fzero('TransZero', Guess)
