@@ -76,4 +76,5 @@ end;
 Final = length(SpkTime);
 BRates = 1000./(SpkTime(2:Final) - SpkTime(1:Final - 1));
 Leng = length(BRates);
+
 Blue_Rate = mean(BRates(Leng/2:Leng))
